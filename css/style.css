@@ -1,0 +1,66 @@
+/*paleta de cores
+#486EE
+48BAE8
+*/
+
+.fundo-azul {
+    background-color: #486EE8;
+}
+
+.h1 {
+    /* colocar uma fonte boa nas letras */
+    font-family: 'Averia Gruesa Libre', cursive;
+}
+
+div.a {
+    width: 100%;
+
+}
+
+body {
+    color: black;
+}
+
+.form-com-fundo-preto {
+
+    background-color: #48BAE8;
+
+}
+
+.modal-title {
+    color: rgb(0, 0, 0);
+
+}
+
+.modal-body {
+    background-color: #2B788A;
+
+}
+
+.modal-footer {
+    background-color: #2D6A7D;
+}
+
+.modal-header {
+    background-color: #2D6A7D;
+}
+
+.btn-secondary {
+    background-color: #2B6F8A;
+}
+
+.btn-secondary {
+    background-color: #2D6A7D;
+}
+
+.pt-5 {
+    background-color: #4FBBDB;
+}
+
+.btn-close {
+    background-color: #14b8dd;
+}
+
+.text-gelo {
+    background-color: #dbdbdb;
+}
