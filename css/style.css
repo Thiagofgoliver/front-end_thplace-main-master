@@ -68,6 +68,49 @@ body {
 
     background-color: rgb(68, 64, 64);
 }
-.fa-github{
-    
+
+.bg-turquesa{
+    background-color: #2D6A7D;
+}
+
+.sombra{
+    box-shadow: 0 0 30px #333;
+}
+
+.card-body{
+    width: 300px;
+    height: 500px;
+}
+ .tamanho-card{
+
+    width: 300px;
+    height: 500px;
+
+}
+
+/* politica de privacidade
+ */
+.aviso-cookies{
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    margin-top: 500px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 1);
+    width: 100%;
+
+}
+
+.texto-cookies{
+    color: white;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.link-politica{
+    color: yellow;
+}
+
+.botao-fechar-cookies{
+    margin-left: 10px;
 }
