@@ -114,3 +114,12 @@ body {
 .botao-fechar-cookies{
     margin-left: 10px;
 }
+
+
+.accordion-button{
+    height: 200px;
+}
+
+.bg-azul{
+    background-color: #4FBBDB;
+}
