@@ -88,6 +88,9 @@ body {
 
 }
 
+
+
+
 /* politica de privacidade
  */
 .aviso-cookies{
@@ -96,7 +99,7 @@ body {
     right: 5px;
     margin-top: 500px;
     height: 200px;
-    background-color: rgba(0, 0, 0, 1);
+    background-color: rgba(0, 0, 0, 0.589);
     width: 100%;
 
 }
@@ -115,6 +118,17 @@ body {
     margin-left: 10px;
 }
 
+.tamanho-avisopriv{
+
+    
+    
+    
+    height: 150px;
+
+}
+
+/* final politica de privacidade
+ */
 
 .accordion-button{
     height: 200px;
@@ -123,3 +137,14 @@ body {
 .bg-azul{
     background-color: #4FBBDB;
 }
+.sem-borda{
+    border: none;
+}
+
+.cor-termoecondicao{ 
+    color: blue;
+}
+
+
+
+

@@ -3,4 +3,9 @@ var div = document.querySelector('.aviso-cookies');
 
 btn.addEventListener('click', function(){
     div.style.display = 'none';
+
+    
+
+
 });
+
