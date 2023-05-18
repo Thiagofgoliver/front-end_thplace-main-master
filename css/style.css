@@ -97,18 +97,19 @@ body {
     position: fixed;
     bottom: 5px;
     right: 5px;
-    margin-top: 500px;
-    height: 200px;
+   
     background-color: rgba(0, 0, 0, 0.589);
     width: 100%;
 
 }
 
+ 
 .texto-cookies{
     color: white;
     font-size: 30px;
     margin-left: 10px;
 }
+
 
 .link-politica{
     color: yellow;
@@ -118,14 +119,7 @@ body {
     margin-left: 10px;
 }
 
-.tamanho-avisopriv{
 
-    
-    
-    
-    height: 150px;
-
-}
 
 /* final politica de privacidade
  */
@@ -140,6 +134,8 @@ body {
 .sem-borda{
     border: none;
 }
+
+
 
 .cor-termoecondicao{ 
     color: blue;
