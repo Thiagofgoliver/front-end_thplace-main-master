@@ -26,14 +26,13 @@
 <body class="pt-5 ">
   <header>
     <nav class="navbar navbar-expand-sm navbar-light fundo-azul fixed-top">
+      
       <a class="navbar-brand ms-2" href="#"><img src="images/logo-projeto.png " width="100"></a>
-      <button class="navbar-toggler d-lg-none tirarhamburguer" type="button" data-bs-toggle="collapse"
-        data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
-        aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
 
-        
-      </button>
+      <!-- btn canvas -->
+      <button class="btn btn-primary btn-offcanvas" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight"></button>
+
+      
       <div class="collapse navbar-collapse" id="collapsibleNavId">
         <ul class="navbar-nav ms-auto mt-2 mt-lg-0">
           <li class="nav-item ">
@@ -43,6 +42,7 @@
 
 
           </li>
+
 
         </ul>
 
@@ -107,6 +107,19 @@
       <a href="https://encurtador.com.br/jBU15"> <i class="fa-brands fa-linkedin fa-2x"></i></a>
       <p>&copy; THIAGO FELIPE - Todos os direitos reservados</p>
     </footer>
+    <!-- off canvas -->
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
+      <div class="offcanvas-header">
+        <h5 id="offcanvasRightLabel">Offcanvas right</h5>
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        ...
+      </div>
+    </div>
+    <!-- final off canvas -->
+
+
     <!-- Bootstrap JavaScript Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
       integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous">
