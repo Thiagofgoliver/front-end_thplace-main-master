@@ -161,9 +161,13 @@ body {
 /* off canvas */
 .btn-offcanvas{
 
-background-color: #2B6F8A;
+/* background-color:rgba(80,190,255,0.7); */
 
     margin-left: 1410px;
 
 }
 
+.fundo-azul-offcanvas{
+    background-color: #48BAE8;
+
+}
